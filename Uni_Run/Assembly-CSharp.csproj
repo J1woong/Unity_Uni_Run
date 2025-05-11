@@ -60,13 +60,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\BackgroundLoop.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\PlatformSpawner.cs" />
     <Compile Include="Assets\Scripts\ScrollingObject.cs" />
     <Compile Include="Assets\Scripts\Platform.cs" />
     <Compile Include="Assets\Scripts\MenuController.cs" />
-    <Compile Include="Assets\Scripts\AudioManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Font\License.txt" />

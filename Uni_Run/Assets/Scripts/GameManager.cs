@@ -38,6 +38,11 @@ public class GameManager : MonoBehaviour {
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Menu"); // "Menu" 씬으로 전환
+        }
     }
 
     // 점수를 증가시키는 메서드
