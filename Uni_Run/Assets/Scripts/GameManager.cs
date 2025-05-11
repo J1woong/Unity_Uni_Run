@@ -39,7 +39,7 @@ public class GameManager : MonoBehaviour {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
 
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (isGameover && Input.GetKeyDown(KeyCode.Escape))
         {
             SceneManager.LoadScene("Menu"); // "Menu" 씬으로 전환
         }
