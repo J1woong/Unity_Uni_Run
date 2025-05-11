@@ -852,11 +852,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: e5b6c43c-4ff5-4339-82c6-1474e45c886a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Template_2D
-  organizationId: 
+  projectName: Uni_Run
+  organizationId: wldndehd
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
